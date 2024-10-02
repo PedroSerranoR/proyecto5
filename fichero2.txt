@@ -1,2 +1,4 @@
 Este es el fichero creado desde github.
+<<<<<<< HEAD
 Este cambio lo he realizado yo desde mi local.
+
